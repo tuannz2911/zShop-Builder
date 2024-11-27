@@ -25,12 +25,10 @@ jobs:
       - name: Build with Maven
         run: mvn clean install
 
-      - name: check
-        run: ls       
 
       # Upload build artifacts
       - name: Upload Build Artifacts
         uses: actions/upload-artifact@v3
         with:
           name: build-libs
-          path: build/libs/*
+          path: target/*

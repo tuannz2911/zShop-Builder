@@ -1,4 +1,4 @@
-# zShop V3
+# zShop V
 
 zShop is a shop plugin, your players will be able to sell and buy items, permissions, enchantments or orders. Very easy to use for the player and configuration for you. The plugin’s default configuration shows you all its possibilities. Indeed, the plugin uses the [zMenu API](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/), which makes it extremely powerful whether its configuration or consumption on your server.
 
